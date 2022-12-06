@@ -1,0 +1,15 @@
+C:\Users\ffdds\homework1\zadacha8\bin\Debug\net6.0\zadacha8.exe
+C:\Users\ffdds\homework1\zadacha8\bin\Debug\net6.0\zadacha8.deps.json
+C:\Users\ffdds\homework1\zadacha8\bin\Debug\net6.0\zadacha8.runtimeconfig.json
+C:\Users\ffdds\homework1\zadacha8\bin\Debug\net6.0\zadacha8.dll
+C:\Users\ffdds\homework1\zadacha8\bin\Debug\net6.0\zadacha8.pdb
+C:\Users\ffdds\homework1\zadacha8\obj\Debug\net6.0\zadacha8.csproj.AssemblyReference.cache
+C:\Users\ffdds\homework1\zadacha8\obj\Debug\net6.0\zadacha8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ffdds\homework1\zadacha8\obj\Debug\net6.0\zadacha8.AssemblyInfoInputs.cache
+C:\Users\ffdds\homework1\zadacha8\obj\Debug\net6.0\zadacha8.AssemblyInfo.cs
+C:\Users\ffdds\homework1\zadacha8\obj\Debug\net6.0\zadacha8.csproj.CoreCompileInputs.cache
+C:\Users\ffdds\homework1\zadacha8\obj\Debug\net6.0\zadacha8.dll
+C:\Users\ffdds\homework1\zadacha8\obj\Debug\net6.0\refint\zadacha8.dll
+C:\Users\ffdds\homework1\zadacha8\obj\Debug\net6.0\zadacha8.pdb
+C:\Users\ffdds\homework1\zadacha8\obj\Debug\net6.0\zadacha8.genruntimeconfig.cache
+C:\Users\ffdds\homework1\zadacha8\obj\Debug\net6.0\ref\zadacha8.dll
